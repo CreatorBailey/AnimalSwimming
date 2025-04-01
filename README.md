@@ -59,7 +59,7 @@ Coming soon!
 
 ## 📃 License
 
-This project is open-source under the MIT License.  
+This project is under a custom license.  
 Feel free to contribute or fork for your own community!
 
 ---
