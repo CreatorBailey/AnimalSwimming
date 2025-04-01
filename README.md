@@ -53,7 +53,9 @@ If you want to add custom ped checks (e.g., specific animal models), modify the 
 
 ## 📸 Preview
 
-Coming soon!
+https://github.com/user-attachments/assets/f59a180c-7ae1-4403-8a38-44b467df4cc8
+
+
 
 ---
 
